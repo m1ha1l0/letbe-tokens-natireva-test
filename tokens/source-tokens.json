@@ -1848,7 +1848,7 @@
           "$description": "Primary text and icons on inverted (dark) surfaces. Theme-flips: light text on dark surfaces in light mode, dark text on light surfaces in dark mode. Pairs with bg.emphasis (e.g. tooltip)."
         },
         "inverse-muted": {
-          "$value": "{neutral.300}",
+          "$value": "{neutral.600}",
           "$type": "color",
           "$description": "Secondary/disabled text on inverted (dark) surfaces. Theme-flipping muted variant of fg.inverse. Pairs with theme-flipping disabled bg (bg.disabled)."
         },
