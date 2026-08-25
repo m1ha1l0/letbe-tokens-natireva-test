@@ -1858,7 +1858,7 @@
           "$description": "Theme-stable light fg (neutral.50 in both themes). Use on saturated/bold colored backgrounds (filled buttons, badges, card media scrims) where the bg doesn't theme-flip and text must always be light. Distinct from fg.inverse / fg.inverse-muted which theme-flip for inverted-luminance surfaces."
         },
         "accent": {
-          "$value": "{brand.700}",
+          "$value": "{brand.600}",
           "$type": "color",
           "$description": "Theme editor brand remap → brand.700 (light)."
         },
